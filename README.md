@@ -50,4 +50,4 @@ __Note that the pokemon id for these images must be padded with zeros to three p
 
 # Live Demo
 
-![pokemon-game](src\assets\pokegame.gif)
+![pokemon-game](src/assets/pokegame.gif)
